@@ -1,0 +1,10 @@
+node_modules/
+vendor/
+.env
+composer.json
+composer.lock
+OOPS_IN_PHP.php
+package.json
+package-lock.json
+script.js
+html.php
