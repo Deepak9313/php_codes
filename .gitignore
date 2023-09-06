@@ -1,7 +1,4 @@
-node_modules/
+
 .env
 OOPS_IN_PHP.php
-package.json
-package-lock.json
-script.js
 html.php
